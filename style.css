@@ -26,7 +26,6 @@ body {
 
 .cell {
   background-color: #444;
-  border-radius: 1vmin;
 }
 
 .tile {
@@ -53,4 +52,15 @@ body {
     opacity: 0.5;
     transform: scale(0);
   }
+}
+
+
+
+.buttons {
+  width: 15vmin;
+  height: 15vmin;
+  border-radius: 1vmin;
+  gap: 2vmin;
+  position: relative;
+  background: #bababa;
 }
